@@ -1,4 +1,4 @@
-from Django import forms
+from django import forms
 from .models import Tarefa
 
 class TarefaForm(forms.ModelForm):
